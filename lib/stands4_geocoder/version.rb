@@ -1,0 +1,3 @@
+module Stands4Geocoder
+  VERSION = "0.0.1"
+end
